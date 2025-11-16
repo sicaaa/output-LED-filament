@@ -6,5 +6,5 @@ In this project, we tested how to control LED filament with a microcontroller.
 ![IMG_0705](https://github.com/user-attachments/assets/5d72b24b-47d2-4aba-b6f2-c3a172780958)
 
 ## Components
-LED Filament
-https://www.amazon.de/dp/B0CZ8HFNN7
+LED Filament, 13 cm: https://www.amazon.de/dp/B0CZ8HFNN7
+LED Filament, 30 cm: https://www.amazon.de/Kichvoe-Flexible-Warmwei%C3%9Fes-Selbstgemacht-Beleuchtung/dp/B0FD4WD8C8/
