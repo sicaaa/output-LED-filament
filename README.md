@@ -1,5 +1,5 @@
 # LED Filament
-In this project, we tested how to control LED filament with a microcontroller. 
+The aim of this project was to control LED filament by using a microcontroller.
 
 More information: https://www.makerguides.com/control-cob-led-filament-with-arduino/
 
